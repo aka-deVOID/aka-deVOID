@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **django, python**
 
+- 🌱 I’m currently learning **Lua**
+
 - 📫 How to reach me **DirtyMBGamer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
