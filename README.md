@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Lua**
 
+- 👨‍💻 All of my projects are available at [https://mahanbi.github.io/Site/#portfolio](https://mahanbi.github.io/Site/#portfolio)
+
+- 📄 Know about my experiences [https://mahanbi.github.io/Site/#resume](https://mahanbi.github.io/Site/#resume)
+
 - 📫 How to reach me **DirtyMBGamer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
