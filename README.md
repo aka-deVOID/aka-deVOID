@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Lua**
 
-- 👨‍💻 All of my projects are available at [https://mahanbi.github.io/Site/#portfolio](https://mahanbi.github.io/Site/#portfolio)
-
-- 📄 Know about my experiences [https://mahanbi.github.io/Site/#resume](https://mahanbi.github.io/Site/#resume)
+- 👨‍💻 All of my projects are available at [Site](https://mahanbi.github.io/Site/#portfolio)
 
 - 📫 How to reach me **DirtyMBGamer@gmail.com**
 
