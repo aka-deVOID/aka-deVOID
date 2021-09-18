@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanbi&label=Profile%20views&color=18ff00&style=plastic" alt="mahanbi" /> </p>
 
-- 💬 Ask me about **django, python**
+- 💬 Ask me about **django, python, Lua**
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Scrapy**
 
 - 👨‍💻 All of my projects are available at [Site](https://mahanbi.github.io/Site/#portfolio)
 
