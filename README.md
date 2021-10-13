@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **django, python, Lua**
 
-- 🌱 I’m currently learning **Scrapy**
+- 🌱 I’m currently learning **Pony, Nim**
 
 - 👨‍💻 All of my projects are available at [Site](https://mahanbi.github.io/Site/#portfolio)
 
