@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanbi&label=Views&color=f6d32d&style=plastic" alt="mahanbi" /> </p>
 
-- 🔭 I’m currently working on [MakeDjango](https://pypi.org/project/MakeDjango/)
+- 🔭 I’m currently working on [MakeDjango](https://pypi.org/project/MakeDjango/), Letter Better
 
 - 🌱 I’m currently learning **NW+, C++, ...**
 
