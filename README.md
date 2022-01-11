@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MahanBi</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+<div style="width: 100%;display:flex;justify-content:center;">
+        <img alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=%2381A1C1&size=21&center=true&vCenter=true&lines=Langs%3A+Python%2C+Lua%2C+C%2B%2B;Frameworks%3A+Django;My+Projects%3A+MakeDjango%2C+LetterBetter">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanbi&label=Views&color=f6d32d&style=plastic" alt="mahanbi" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/vi282Mc9raIAAAAC/ascii-drone.gif">
 
