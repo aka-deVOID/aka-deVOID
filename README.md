@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **NW+, C++, ...**
+- 🌱 I’m currently learning **C++, Julia, AI**
 
 - 👨‍💻 All of my projects are available at [https://mahanbi.github.io/Site/](https://mahanbi.github.io/Site/)
 
