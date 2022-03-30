@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on Panther
 
-🌱 I’m currently learning Embedded systems
+🌱 I’m currently learning Embedded systems, AI
 
 💬 Ask me about Python, Django, Julia
 
