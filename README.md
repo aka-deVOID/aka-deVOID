@@ -1,9 +1,10 @@
 # 💫About Me :
 🔭 I’m currently working on Panther
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with
+
 🌱 I’m currently learning Embedded systems
-💬 Ask me about Python, Django, Julia, 
+
+💬 Ask me about Python, Django, Julia
+
 ⚡ Fun fact Learning depends on greed, not effort
 
 ## 🌐Socials
