@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on [Covana](https://github.com/MahanBi/Covana)
 
-🌱 I’m currently learning Embedded systems, AI
+🌱 I’m currently learning AI
 
 💬 Ask me about Python, Django, Julia
 
