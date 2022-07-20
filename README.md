@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning AI
 
-💬 Ask me about Python, Django, Julia
+💬 Ask me about Python, Django, Julia, Pony
 
 ⚡ Fun fact Learning depends on greed, not effort
 
