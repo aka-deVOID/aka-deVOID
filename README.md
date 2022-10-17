@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on [Covana](https://github.com/MahanBi/Covana)
+🔭 I’m currently working on [Oravel](https://github.com/MahanBi/Oravel)
 
 🌱 I’m currently learning AI
 
