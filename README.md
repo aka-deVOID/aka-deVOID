@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on [Oravel](https://github.com/MahanBi/Oravel)
+🔭 I’m currently working on [Oravel](https://github.com/MahanBi/Oravel), 
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book)
 
 💬 Ask me about Python, Django, Julia
 
