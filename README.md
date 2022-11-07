@@ -16,4 +16,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanBi&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Metrics](https://metrics.lecoq.io/MahanBi?template=classic&base.header=0&base.community=0&stackoverflow=1&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=6&stackoverflow=false&stackoverflow.user=14768266&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=1&stackoverflow.lines=1&stackoverflow.lines.snippet=1&config.timezone=Asia%2FTehran&config.twemoji=true&config.octicon=true&config.display=columns&config.padding=0%2C%202%20%2B%203%25)
