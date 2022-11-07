@@ -1,9 +1,9 @@
 # 💫About Me :
 🔭 I’m currently working on [Oravel](https://github.com/MahanBi/Oravel)
 
-🌱 I’m currently learning AI
+🌱 I’m currently learning Rust
 
-💬 Ask me about Python, Django, Julia, Pony
+💬 Ask me about Python, Django, Julia
 
 ⚡ Fun fact Learning depends on greed, not effort
 
