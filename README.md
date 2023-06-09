@@ -1,1 +1,4 @@
-NOT FOUND
+aka deVOID
+- Nerd
+- INFJ
+- Rusty
