@@ -1,4 +1,5 @@
 aka deVOID
 - Nerd
 - INFJ
-- Rusty
+- Lang: Rust
+- OS: Void Linux
