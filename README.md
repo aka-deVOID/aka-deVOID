@@ -1,4 +1,4 @@
-aka deVOID
+deVOID
 - Nerd
 - INFJ
 - Rust
